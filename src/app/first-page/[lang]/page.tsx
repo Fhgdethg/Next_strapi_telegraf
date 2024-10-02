@@ -1,6 +1,6 @@
 import HomePage from "@/pages/HomePage";
 
-export default function Home({params}: {
+export default function FirstPage({params}: {
   params: {
     lang: string | undefined
   }
